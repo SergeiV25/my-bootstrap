@@ -12,7 +12,7 @@ const Footer = () => {
                 <p>
                   A&B - надежный друг
                 </p>
-</div>
+     </div>
                       <div className='col mb-3'>
 
                       </div>
